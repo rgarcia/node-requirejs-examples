@@ -1,0 +1,10 @@
+{
+  "name": "node-requirejs-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.0",
+    "requirejs": ">=1.0.0",
+    "socket.io": ">=0.8.7",
+    "underscore": ">=1.2.1"
+  }
+}
