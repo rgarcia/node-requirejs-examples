@@ -1,0 +1,8 @@
+{
+  "name": "node-requirejs-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.0",
+    "requirejs": ">=1.0.0"
+  }
+}
