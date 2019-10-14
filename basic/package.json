@@ -2,7 +2,7 @@
   "name": "node-requirejs-example",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.0",
+    "express": "4.17.1",
     "requirejs": ">=1.0.0"
   }
 }
